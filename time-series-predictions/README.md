@@ -5,5 +5,6 @@ The repo contains code to predict stock movements (UP, DOWN, STAY) based on synt
 
 [Models](models.ipynb) used for prediction:
  - Linear Model
- - Deep Neural Network
- - Convolution Neural Network
+ - Deep Neural Network (Dense)
+ - Convolution Neural Network (Conv1D)
+ - Recurrent Neural Network (SimpleRNN, LSTM, GRU)
